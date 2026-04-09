@@ -224,5 +224,3 @@ Based on professor feedback, the following critical issues were fixed:
 System Architecture
 <img width="974" height="1382" alt="image" src="https://github.com/user-attachments/assets/7eca7c1b-2069-4060-81bd-96c69afee91b" />
 <img width="972" height="296" alt="image" src="https://github.com/user-attachments/assets/896d4d50-4e03-4ce7-8121-7c8a188283b7" />
-* [ ] trace includes correlationId
-* [ ] README matches actual implementation
